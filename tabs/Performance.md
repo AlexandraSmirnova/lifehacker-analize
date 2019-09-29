@@ -15,7 +15,7 @@ First meaningfull Paint - 1022ms
 
 DOM Content Loaded - 1020.8ms
 
-![domloaded](../screenshots/domloaded.png)
+![domload](../screenshots/domload.png)
 
 Load - 234ms (до первой загрузки) 
 
