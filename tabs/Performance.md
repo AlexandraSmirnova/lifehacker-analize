@@ -6,15 +6,19 @@
 
 ### Время от начала до старта события 
 First Paint - 221.4ms
+
 ![paint](../screenshots/paint.png)
 
 First meaningfull Paint - 1022ms
+
 ![fmp](../screenshots/fmp.png)
 
 DOM Content Loaded - 1020.8ms
+
 ![domloaded](../screenshots/domloaded.png)
 
 Load - 234ms (до первой загрузки) 
+
 ![load](../screenshots/load.png)
 
 ### Время на разные этапы загрузки документа
